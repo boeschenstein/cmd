@@ -6,6 +6,7 @@ cmd command line windows dos
 
 - <https://www.lifewire.com/list-of-command-prompt-commands-4092302>
 - <https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd>
+- <https://www.thewindowsclub.com/complete-list-of-command-prompt-commands>
 
 ## POSIX Conventions for Command Line Arguments
 
